@@ -1,0 +1,2 @@
+Prefix plugins/BreakDancer/example/
+Plugin BreakDancer inputfile inv_del_bam_config outputfile output.txt
